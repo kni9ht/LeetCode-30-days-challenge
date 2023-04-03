@@ -7,7 +7,7 @@ some kind of greedy solution where I will to try to fit the heavy person and lig
 First I have thought like it might be a DP solution but then I have sorted the array and I thought of using two pointer method where I will keep two pointers one is on the lightest person and one is one the heavest person.
 
 # Complexity
-- Time complexity: O(nlog(n)) for sorting and O(n) for find the pairs
+- Time complexity: O(nlog(n)) for sorting and O(n) for finding the pairs
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 - Space complexity: O(1)
